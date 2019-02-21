@@ -6,6 +6,6 @@ import "../lit-one.js";
 describe("Suite cases", () => {
   it("Case default", async () => {
     const _element = await fixture("<lit-one></lit-one>");
-    assert.strictEqual(_element.hello, 'Hello World!');
+    assert.strictEqual(_element.hello, 'Otra cosa');
   });
 });
