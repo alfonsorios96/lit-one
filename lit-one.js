@@ -14,7 +14,7 @@ class LitOne extends LitElement {
 
   constructor() {
     super();
-    this.hello = 'Hello World!';
+    this.hello = 'Otra cosa';
   }
 
   render() {
